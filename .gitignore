@@ -6,3 +6,6 @@ yarn-error.log
 # ENV
 .env
 .env
+
+# DATAVASE 
+prisma/dev.db
